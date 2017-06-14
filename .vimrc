@@ -74,7 +74,7 @@ call plug#end()
 """""""
 
 " Terminal
-    set term=screen-256color
+"    set term=screen-256color
     set t_Co=256
     set ttyfast
 
@@ -166,8 +166,8 @@ call plug#end()
 
 " ColorSchemes
     set background=dark
-	colorscheme solarized
-"    colorscheme jellybeans
+"	colorscheme solarized
+    colorscheme jellybeans
     set cursorline
     hi CursorLine term=bold cterm=bold
 
